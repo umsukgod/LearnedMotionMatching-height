@@ -1,0 +1,14 @@
+controller.exe
+controller.data
+controller.js
+controller.html
+controller.wasm
+*__pycache__*
+*.png
+*.bvh
+*.log
+resources/runs*
+database.bin
+resources/database.bin
+resources/database_flat.bin
+resources/bvh/*
